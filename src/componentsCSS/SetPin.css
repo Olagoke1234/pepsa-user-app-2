@@ -1,0 +1,24 @@
+.set-pin-heading {
+  margin: 0;
+}
+
+.set-pin-heading h1 {
+  color: #9d0208;
+  font-size: 23px;
+}
+
+.set-pin-paragraph {
+  font-size: 13px;
+  color: #514c4c;
+}
+
+.pin {
+  margin: 40px 0;
+}
+
+.set-pin-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}

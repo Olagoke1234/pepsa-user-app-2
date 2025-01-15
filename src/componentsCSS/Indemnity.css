@@ -1,0 +1,79 @@
+* {
+  font-family: sans-serif;
+}
+
+.outermost-div {
+  border: 0.5px solid #ddd;
+}
+
+.container {
+  width: 430px;
+  background-color: #eeeeee;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.caption {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 430px;
+  height: 70px;
+  background: #fff;
+  padding: 10px;
+}
+
+.caption h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.content {
+  border: 2px solid rgba(123, 121, 121, 0.1);
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.content h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.content p {
+  text-align: justify;
+  font-size: 12px;
+}
+
+.documentation-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+}
+
+.agreement p {
+  flex: 60%;
+  font-size: 11px;
+  font-style: italic;
+  margin-top: 10px;
+  opacity: 0.6;
+  text-align: center;
+}
+
+.documentation-btn {
+  flex: 40%;
+}
+
+.documentation-btn .btn {
+  padding: 4px 0;
+  outline: 2px solid black;
+  border-radius: 5px;
+  background: transparent;
+  margin-top: 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,49 @@
+.user-identification-heading {
+  margin: 40px 20px;
+}
+
+.user-identification-heading h1 {
+  font-size: 23px;
+}
+
+.user-identification-heading p {
+  font-size: 13px;
+  color: #514c4c;
+}
+
+.fileInput {
+  display: none;
+}
+
+.uploadBox {
+  width: 220px;
+  height: 150px;
+  border: 2px dashed #060606;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  text-align: center;
+  cursor: pointer;
+  background-color: #fff;
+}
+
+.icon {
+  font-size: 50px;
+  color: #b71c1c;
+}
+
+.text {
+  font-size: 14px;
+  color: #333;
+  margin-top: 10px;
+}
+
+.imagePreview {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
