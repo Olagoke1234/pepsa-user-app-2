@@ -19,7 +19,7 @@ function TermsAndConditions() {
           <div className="content">
             <h2>Effective Date: 1st December, 2024</h2>
             <p>
-              1. Definition and Scope <br />
+              1. Definition and Scope and others <br />
               a. Pepsa Solutions Limited, its groups, and subsidiaries
               (collectively, “Pepsa,” “we,” “us,” or “our”) are committed to
               protecting your privacy. This Privacy Policy (“Policy”) explains
