@@ -11,7 +11,7 @@ import PrivacyTerms from "./components/PrivacyTerms";
 import Indemnity from "./components/Indemnity";
 import Checkout from "./components/Checkout";
 import Dashboard from "./components/Dashboard";
-// import ErrorBoundary from "./components/ErrorBoundary";
+import ErrorBoundary from "./components/ErrorBoundary";
 import "./App.css";
 
 function App() {
