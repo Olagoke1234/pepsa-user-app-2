@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import "../componentsCSS/Dashboard.css";
 import HamburgerMenu from "./Hamburger";
 import Scanner from "../assets/iconamoon_scanner-thin.png";

@@ -1,9 +1,5 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-} from "../node_modules/react-router-dom/package.json";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import GetStarted from "./components/GetStarted";
 import CreateAccount from "./components/CreateAnAccount";
 import VerifyNumber1 from "./components/VerifyNumber1";

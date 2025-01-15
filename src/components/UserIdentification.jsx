@@ -1,5 +1,3 @@
-//
-
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom"; // For navigation
 import { FaUserCircle } from "react-icons/fa"; // Using FontAwesome for the icon
